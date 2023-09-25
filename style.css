@@ -32,7 +32,7 @@ section {
 }
 
 .red {
-  background: red;
+  background: white;
 }
 
 .black {
@@ -40,16 +40,16 @@ section {
 }
 
 .blue {
-  background: blue;
+  background: black;
 }
 
 .green {
-  background: green;
+  background: white;
   //min-height: 50vh;
 }
 
 .purple {
-  background: purple;
+  background: black;
 }
 
 .qw .section-inner {
